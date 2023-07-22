@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\bin\Debug\net7.0\TestPartialClassDemo.exe
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\bin\Debug\net7.0\TestPartialClassDemo.deps.json
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\bin\Debug\net7.0\TestPartialClassDemo.runtimeconfig.json
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\bin\Debug\net7.0\TestPartialClassDemo.dll
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\bin\Debug\net7.0\TestPartialClassDemo.pdb
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\obj\Debug\net7.0\TestPartialClassDemo.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\obj\Debug\net7.0\TestPartialClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\obj\Debug\net7.0\TestPartialClassDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\obj\Debug\net7.0\TestPartialClassDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\obj\Debug\net7.0\TestPartialClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\obj\Debug\net7.0\TestPartialClassDemo.dll
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\obj\Debug\net7.0\refint\TestPartialClassDemo.dll
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\obj\Debug\net7.0\TestPartialClassDemo.pdb
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\obj\Debug\net7.0\TestPartialClassDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\SUMEDH_NIKHIL\TestPartialClassDemo\obj\Debug\net7.0\ref\TestPartialClassDemo.dll
